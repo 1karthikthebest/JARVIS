@@ -1,1 +1,18 @@
-css
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: #05070a;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+#app {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  letter-spacing: 8px;
+}
